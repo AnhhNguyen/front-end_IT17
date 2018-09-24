@@ -1,0 +1,43 @@
+/*vung tencent1 css*/
+.tencent1{
+	width: 100%;
+	height: 350px;
+}
+.tencent1 .box1{
+	margin-left: 8%;	
+	float: left;
+	width: 15%;
+	height: 400px;
+}
+.tencent1 .box2{
+	margin-left: 8%;	
+	float: left;
+	width: 15%;
+	height: 350px;
+}
+.tencent1 .box3{
+	margin-left: 8%;
+	float: left;
+	width: 15%;
+	height: 350px;
+}
+.tencent1 .box4{
+	margin-left: 8%;
+	margin-right: 8%;
+	float: left;
+	width: 15%;
+	height: 350px;
+}
+.tencent1 h3{
+	text-align: center;
+}
+.tencent1 p{
+	text-align: justify;
+	margin-left: 30px;
+}
+.tencent1 a{
+	color: #1d97e2;
+	text-decoration: none;
+	font-size: 17px;
+}
+/*vung tencent1 css*/
