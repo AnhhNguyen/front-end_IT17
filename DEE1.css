@@ -1,0 +1,61 @@
+.content2{
+	/*float: left;*/
+	margin: 0 auto;
+	width: 85%;
+	height: 450px;
+	background-color: #003333;
+}
+.content2 .top{
+	margin: 0 auto;
+	width: 77%;
+	height:50px;
+	margin-bottom: 50px;
+}
+.content2 .top h3{
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	padding-left: 10px;
+	font-size: 38px;
+	color: #FF6600;
+}
+.content2 .top .link{
+	margin-top: 10px;
+	float: right;
+	width: 100px;
+	height: 80%;
+	background-color: blue;
+	border-radius: 5px;
+}
+.top .link a{
+	text-decoration: none;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+	padding-left: 8px;
+}
+.top .link a:hover{
+	color: yellow;
+}
+.content2 .box{
+	float: left;
+	width: 24%;
+	height: 300px;
+	margin-right: 2%
+}
+.content2 .box h4{
+	font-size: 18px;
+	color:  #FF6600;
+	padding-left: 5px;
+}
+.content2 .box p{
+	font-size: 16px;
+	color: white;
+	line-height: 25px;
+	padding-left: 5px;
+}
+.content2 .box.diff{
+	margin-left: 140px;
+}
